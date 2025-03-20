@@ -1,0 +1,394 @@
+.ul{
+    display: flex;
+    gap: 34px;
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+    margin-left: 690px;
+}
+    
+
+
+.smooth{
+    margin-left: 15cm;
+    top: 19cm;
+    position: absolute;
+    color: white;
+    
+}
+#first-image{
+    width: 100%;
+}
+#btn{
+    border: 1.5px solid;
+    width: 120px;
+    color: white;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 5px;
+    height: 50px;
+}
+#packer {
+  
+   margin-bottom: 286px;
+   margin-left: 100px;
+   width: 400px;
+   border: 4px solid blue;
+  border-radius: 20px;
+  object-fit: cover;
+}
+#learn{
+    color: chocolate;
+    text-decoration: underline;
+
+}
+#goods{
+   margin-right: 800px;
+}
+.parg{
+    margin-left: 850px;
+    margin-top: 60px;
+    margin-bottom: 190%
+    top : 97cm;
+    
+}
+.phone{
+    display: flex;
+    justify-content: center;
+}
+.call{
+    margin-right: 50%;
+
+}
+.msg{
+    display:flex ;
+}
+#fa{
+    margin-top: 12%;
+    margin-left: 5%;
+
+}
+.dowload{
+    
+    display: flex;
+    margin-left: 200px;
+}
+#img{
+    width: 10%;
+    height: 40px;
+    margin-top: 58px;
+
+
+}
+.content{
+    display: flex ;
+    margin-left: 400px;
+    padding: 20px;
+    gap: 25px;
+    position: relative;
+
+}
+#content-img {
+    width: 300px;
+   margin-left: 600px
+   gap:20px;
+   
+}
+#click{
+    margin-top: 22px;
+}
+.head{
+padding-right: 30px;
+
+}
+.service{
+    justify-content: center;
+    text-align: center  
+    
+}
+#img{
+    background-color: blue;
+}
+.riaad{
+   
+    margin-left: 600px;
+    
+
+}
+.riad-img{
+    width: 60%;
+
+}
+.since{
+    text-align: center;
+    top: 19cm;
+    margin-left:300px;
+
+}
+.sign{
+    text-align: center;
+}
+.test{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 120px;
+
+    }
+.text-parg{
+    text-align: center;
+
+}
+.text-pargh2{
+    font-size: 3rem;
+}
+#test-h2{
+    font-size: 3.5rem;
+}
+#our{
+    color: orange;
+    text-decoration: underline;
+}
+.address{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 500px;
+}
+#join{
+    font-size: 3rem;
+}
+#new{
+    color: orange;
+    text-decoration: underline;
+} 
+#submit{
+    width: 200px;
+    color: white;
+    background-color: orange;
+}
+.whole-riaad img{
+    width: 500px;
+    height: 600px;
+    background-color: blue;
+    padding-right: 5%;
+    padding-bottom: 10%;
+    display: flex;
+}
+.question{
+    display: flex;
+}
+.chose{
+margin-left: 900px;
+margin-bottom: 800px;
+
+}
+.blog{
+    display: flex;
+    justify-content: center;
+    gap: 29px;
+    width: 100%;
+}
+#man{
+    width: 250px;
+}
+.news{
+    text-align: center;
+}
+#plog{
+    color: orange;
+    text-decoration: underline;
+}
+.over{
+    display: flex;
+    width:100% ;
+    background-color: orange;
+    padding: 4%;
+    color: white;
+    
+
+}
+#submit{
+    background-color: black;
+    color: white;
+    margin-left: 500px;
+    padding: 20px;
+}
+.tell{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 30px;
+    text-decoration: none;
+    
+    
+    color: white;
+    
+}
+
+.copy-form{
+    width: 100%;
+    background-color: black;
+    
+}
+
+#arif{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 600px;
+    margin-top: 800px;
+}
+.fa-brand{
+    padding: 20px;
+    gap: 200px;
+
+    
+
+}
+#ga{
+    color: orange;
+    
+}
+.admin{
+    
+    top: 1.6cm;
+    
+}
+.book{
+    display: flex;
+    justify-content: center;
+    
+}
+#book-image{
+    width: 100%;
+    height: 600px;
+}
+.now{
+    background-color: orange;
+    width: 200px;
+    padding: 100px;
+}
+.request{
+    background-color: blue;
+    width: 25%;
+    padding: 30px;
+}
+.general{
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+    position: relative;
+    margin-bottom: 200px;
+    margin-top: 150px;
+}
+.image-container img{
+    background-color: blue;
+    padding-right: 20px;
+    padding-bottom: 60px;
+    height: 400px;
+    
+}
+.start{
+
+    position: absolute;
+    bottom: 6cm;
+    margin-left: 150px;
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    font-size: 1.5rem;
+    
+    
+}
+#get{
+    text-decoration: underline;
+    color: orange;
+}
+#do{
+    position: relative;
+    bottom: 2cm;
+    left: 150px;
+    color: white;
+}
+.fa-solid{
+    color: orange;
+    padding: 20px;
+}
+#cha{
+    color: orange;
+}
+.play{
+   position: absolute; 
+   font-size: 4rem;
+right: 8cm;
+
+}
+.img-con {
+    width: 150px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    margin-left: 300px;
+}
+.img.con img{
+    width: 150px;
+}
+#img-form{
+    width: 150px;
+    background-color: blue;
+}
+#img3 {
+    width: 100px;
+}
+.services{
+    padding: 30px;
+    width: 150px;
+}
+.storage{
+    background-color: blue;
+    padding: 20px;
+}
+.about{
+    display: flex;
+}
+.fun{
+display: flex;
+justify-items: center;
+align-items: center;
+text-align: center;
+margin-left: 300px;
+gap: 40px;
+}
+#one{
+    
+    border: 3px solid blue;
+}
+#sin{
+text-decoration: underline;
+color: orange;
+
+}
+.display{
+    display: flex;
+    gap: 2rem;
+}
+.display p{
+    font-size: small;
+}
+.women{
+   position: relative; 
+
+}
+.ins{
+    bottom: 10cm;
+    position: absolute;
+}
+#butn{
+    background-color: orange;
+
+}
+    
+
